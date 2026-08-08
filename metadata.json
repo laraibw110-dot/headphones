@@ -1,0 +1,6 @@
+{
+  "name": "AURA Audio",
+  "description": "Ergonomic, fashion-forward noise-cancelling headphones crafted for women. Featuring hair-friendly headband design, low clamping force, and seamless lifestyle integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
